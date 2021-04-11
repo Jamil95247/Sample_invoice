@@ -1,1 +1,1 @@
-# customer_invoice
+# sample_invoice
